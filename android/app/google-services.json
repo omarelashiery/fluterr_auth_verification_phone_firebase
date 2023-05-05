@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43126053124",
+    "project_id": "tab-cash-4240c",
+    "storage_bucket": "tab-cash-4240c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43126053124:android:605e27d2850912927f5851",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43126053124-0c79scg4ifv045pd03lmb0tlrqlbsdhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHaHKxYgZg5DJHyDW44eL96tQ1WGkc-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43126053124-0c79scg4ifv045pd03lmb0tlrqlbsdhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
